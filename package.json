@@ -1,0 +1,24 @@
+{
+  "name": "jquery-menu-aim",
+  "version": "1.0.0",
+  "description": "fork from https://github.com/tuckbick/jQuery-menu-aim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaPo/jQuery-menu-aim.git"
+  },
+  "keywords": [
+    "jQuery",
+    "menu",
+    "aim"
+  ],
+  "author": "@kamens, @tuckbick, @DaPo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaPo/jQuery-menu-aim/issues"
+  },
+  "homepage": "https://github.com/DaPo/jQuery-menu-aim#readme"
+}
